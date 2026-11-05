@@ -1,7 +1,5 @@
 # Lab0 · sub-shirox
 
-<p align="center"><img src="./bot-avatar.png" width="220" alt="Lab0 avatar"></p>
-
 The **env-maintain bot** of [super-labot-env](https://github.com/yhbcode000/super-labot-env) — the repository that
 configures a research lab of router and worker agents on
 [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype).
